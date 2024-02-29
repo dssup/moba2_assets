@@ -2,101 +2,101 @@
 	{
 		"name": "Madrid",
 		"price": 2325,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Madrid-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/madrid.jpg"
 	},
 	{
 		"name": "Paris",
 		"price": 1800,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Paris-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/paris.jpg"
 	},
 	{
 		"name": "Rome",
 		"price": 2100,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Rome-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/rome.jpg"
 	},
 	{
 		"name": "London",
 		"price": 1950,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/London-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/london.jpg"
 	},
 	{
 		"name": "New York",
 		"price": 2450,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/New-York-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/new_york.jpg"
 	},
 	{
 		"name": "Tokyo",
 		"price": 2250,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Tokyo-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/tokyo.jpg"
 	},
 	{
 		"name": "Barcelona",
 		"price": 2150,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Barcelona-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/barcelona.jpg"
 	},
 	{
 		"name": "Berlin",
 		"price": 1950,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Berlin-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/berlin.jpg"
 	},
 	{
 		"name": "Amsterdam",
 		"price": 1850,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Amsterdam-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/amsterdam.jpg"
 	},
 	{
 		"name": "Istanbul",
 		"price": 2200,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Istanbul-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/istanbul.jpg"
 	},
 	{
 		"name": "Sydney",
 		"price": 2350,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Sydney-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/sydney.jpg"
 	},
 	{
 		"name": "San Francisco",
 		"price": 2500,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/San-Francisco-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/san_francisco.jpg"
 	},
 	{
 		"name": "Dubai",
 		"price": 2650,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Dubai-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/dubai.jpg"
 	},
 	{
 		"name": "Rio de Janeiro",
 		"price": 2050,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Rio-de-Janeiro-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/rio_de_janeiro.jpg"
 	},
 	{
 		"name": "Cape Town",
 		"price": 2250,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Cape-Town-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/cape_town.jpg"
 	},
 	{
 		"name": "Buenos Aires",
 		"price": 1950,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Buenos-Aires-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/buenos_aires.jpg"
 	},
 	{
 		"name": "Mumbai",
 		"price": 1900,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Mumbai-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/mumbai.jpg"
 	},
 	{
 		"name": "Seoul",
 		"price": 2300,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Seoul-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/seoul.jpg"
 	},
 	{
 		"name": "Moscow",
 		"price": 2150,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Moscow-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/moscow.jpg"
 	},
 	{
 		"name": "Singapore",
 		"price": 2350,
-		"image": "https://www.headout.com/blog/wp-content/uploads/2019/11/Singapore-City.jpeg"
+    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/singapore.jpg"
 	}
 ]
