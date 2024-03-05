@@ -80,11 +80,6 @@
     "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/buenos_aires.jpg"
   },
   {
-    "name": "Mumbai",
-    "price": 1900,
-    "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/mumbai.jpg"
-  },
-  {
     "name": "Seoul",
     "price": 2300,
     "image": "https://raw.githubusercontent.com/dssup/moba2_assets/master/images/seoul.jpg"
